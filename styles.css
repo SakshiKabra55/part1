@@ -1,0 +1,148 @@
+<!---html--->
+body
+{
+    font-family: Montserrat;
+}
+.button
+{
+    border-radius: 50px;
+    margin-right: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-weight: 700;
+}
+<!---navbar--->
+.firstSection
+{
+    color: blue;
+}
+.secondSection
+{
+    float: right;
+    border-top: 0px;
+}
+.item
+{
+    padding-top: 10px;
+}
+.table td
+{
+    float: center;
+    border-top: 0px;
+}
+<!---content--->
+.heading
+{
+    font-family: Montserrat;
+    font-weight: 500;
+}
+.firstPara
+{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.button1
+{
+    margin-top: 35px;
+    margin-left: 100px;
+}
+.videoSec
+{
+    color: green;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.SecCon
+{
+    margin-top: 150px;
+    background-color: #fafafa;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+.sectionTwo
+{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.SecondPara
+{
+    margin-top: 20px;
+    font-size: 25px;
+    padding-right: 30px;
+}
+.button2
+{
+    margin-left: 200px;
+}
+.sectionOne
+{
+    padding-top: 150px;
+    padding-right: 200px;
+}
+.womenReadingBook
+{
+    margin-top: 50px;
+    width: 400px;
+    height: auto;
+    position: absolute;
+}
+.sticker
+{
+    width: 50px;
+    height: auto;
+    position: absolute;
+}
+.like
+{
+    top: 150px;
+    left: 0px;
+    width: 40px;
+    height: auto;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1) rotate(-20deg);
+}
+.message
+{
+    top: 205px;
+    left: 2px;
+}
+.love
+{
+    top: 270px;
+    width: 25px;
+    left: 50px;
+    height: auto;
+    transform: rotate(20deg);
+}
+.window
+{
+    width: 280px;
+    height: auto;
+    top: 50px;
+    left: 230px;
+}
+.webpage
+{
+    width: 180px;
+    height: auto;
+    top: 100px;
+    left: 130px;
+}
+.group
+{
+    width: 370px;
+    height: auto;
+    top: 200px;
+    left: 190px;
+}
+.youtube
+{
+    top: 170px;
+    left: 500px;
+    transform: rotate(20deg);
+}
+.telegram
+{
+    top: 370px;
+    left: 150px;
+}
